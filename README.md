@@ -6,7 +6,7 @@ An interactive Streamlit dashboard to explore company fundamentals, historical p
 
 ## 🌍 Live Demo
 
-👉 [View Live Dashboard]([https://your-live-link-here](https://stock-market-insights-dashboard-gauravyadav.streamlit.app/))  
+👉 [View Live Dashboard](https://your-live-link-here](https://stock-market-insights-dashboard-gauravyadav.streamlit.app/)  
 
 ---
 
