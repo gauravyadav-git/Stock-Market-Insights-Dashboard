@@ -4,7 +4,7 @@ An interactive Streamlit dashboard to explore company fundamentals, historical p
 
 ---
 
-## ⭐ Summary / Overview
+## ⭐ Summary 
 
 * **Designed** an interactive web dashboard consolidating company profiles, stock history, and financial statements in one place.  
 * **Implemented** dynamic visualizations: candlestick charts with moving averages, trading volume, market capitalization trend, and revenue/net income comparisons.  
