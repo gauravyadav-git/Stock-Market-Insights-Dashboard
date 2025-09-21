@@ -4,6 +4,12 @@ An interactive Streamlit dashboard to explore company fundamentals, historical p
 
 ---
 
+## 🌍 Live Demo
+
+👉 [View Live Dashboard](https://your-live-link-here)  
+
+---
+
 ## ⭐ Summary 
 
 * **Designed** an interactive web dashboard consolidating company profiles, stock history, and financial statements in one place.  
